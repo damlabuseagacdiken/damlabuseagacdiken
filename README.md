@@ -1,5 +1,5 @@
 ### - 🔭 I’m currently working on producing solar panel cleaning robots.
-### - 🌱 I’m currently learning Full-Stack Web Development Technologies.
+### - 🌱 I’m currently learning Web Development Technologies.
 ### - 📫 How to reach me: damla.buse.agacdiken@gmail.com 👋
 
 <!--
